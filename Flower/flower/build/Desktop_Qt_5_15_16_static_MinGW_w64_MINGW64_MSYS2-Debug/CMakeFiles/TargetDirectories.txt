@@ -1,9 +1,0 @@
-C:/Users/marik/Desktop/Flower/flower/build/Desktop_Qt_5_15_16_static_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/flower.dir
-C:/Users/marik/Desktop/Flower/flower/build/Desktop_Qt_5_15_16_static_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/edit_cache.dir
-C:/Users/marik/Desktop/Flower/flower/build/Desktop_Qt_5_15_16_static_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/marik/Desktop/Flower/flower/build/Desktop_Qt_5_15_16_static_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/list_install_components.dir
-C:/Users/marik/Desktop/Flower/flower/build/Desktop_Qt_5_15_16_static_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/install.dir
-C:/Users/marik/Desktop/Flower/flower/build/Desktop_Qt_5_15_16_static_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/install/local.dir
-C:/Users/marik/Desktop/Flower/flower/build/Desktop_Qt_5_15_16_static_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/install/strip.dir
-C:/Users/marik/Desktop/Flower/flower/build/Desktop_Qt_5_15_16_static_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/flower_autogen_timestamp_deps.dir
-C:/Users/marik/Desktop/Flower/flower/build/Desktop_Qt_5_15_16_static_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/flower_autogen.dir
